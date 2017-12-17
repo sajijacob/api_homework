@@ -1,0 +1,43 @@
+#header {
+	background-color: #010c38;
+	color: #ffffff;	
+	padding-top: 10px;
+	padding-bottom: 15px;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+ 
+ #wholeThing{
+
+ 	background-color: #3c5be1;
+
+ }
+
+label {
+	font-size: 17px;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+#bird {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#birdsSearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.birdsGiphy {
+	padding: 2px;
+	width: 80%;
+}
+
